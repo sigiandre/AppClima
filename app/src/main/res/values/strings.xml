@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">23°</string>
+    <string name="texto_ciudad">Ciudad de Peru</string>
+    <string name="texto_estatus">Nublado</string>
+
+    <string name="texto_bienvenida">Bienvenido a mi App del clima, para poder ver el clima de una ciudad selecciona la opcion de abajo.</string>
+    <string name="texto_boton_peru">Clima de la ciudad de Perú</string>
+    <string name="texto_boton_mexico">Clima de la ciudad de México</string>
+    <string name="texto_boton_china">Clima de la ciudad de China</string>
+    <string name="texto_boton_alemania">Clima de la ciudad de Alemania</string>
+</resources>
